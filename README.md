@@ -57,12 +57,12 @@
 ## 👁️ PERFIL D'O ANTIGO
 
 ```bash
-┌─[emperor@zarbato]─[~/profile]
+┌─[Nyarlathotep@CWR]─[~/profile]
 └──╼ cat agent_profile.txt
 ```
 
 ```yaml
-Agent_ID: EmperorZarbato
+Agent_ID: NyarlathotepCWR
 Classification: [CONFIDENTIAL]
 Role: QA Security Specialist
 Location: Thomson Reuters - QA Division
