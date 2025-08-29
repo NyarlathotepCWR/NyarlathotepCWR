@@ -75,7 +75,6 @@ Current_Operations:
   - 🔍 Security Vulnerability Assessment
   - 🛡️ Penetration Testing Protocols
 
-Contact_Protocol: gabrielzarbatto1214@gmail.com
 ```
 
 ---
