@@ -54,7 +54,7 @@
 
 ---
 
-## 🕵️‍♂️ PERFIL DO AGENTE
+## 👁️ PERFIL D'O ANTIGO
 
 ```bash
 ┌─[emperor@zarbato]─[~/profile]
@@ -79,7 +79,7 @@ Current_Operations:
 
 ---
 
-## 🔥 ARSENAL TECNOLÓGICO
+## 🌌 ARSENAL CÓSMICO
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Current_Operations:
 
 ---
 
-## 📊 MÉTRICAS DE COMBATE
+## 🕳️ MÉTRICAS DE INVASÃO
 
 <div align="center">
 
@@ -172,7 +172,7 @@ Clean Architecture
 
 ---
 
-## 🎮 OPERAÇÕES ATIVAS
+## 🎮 INTERVENÇÕES ATIVAS
 
 <div align="center">
 
