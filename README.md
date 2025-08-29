@@ -356,8 +356,6 @@ Connection to future terminated.
 
 <div align="center">
 
-![Matrix](https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif)
-
 **🔥 "Code is my weapon, Security is my shield, Quality is my mission" 🔥**
 
 </div>
