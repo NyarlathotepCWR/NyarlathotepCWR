@@ -311,22 +311,22 @@ Clean Architecture
 <div align="center">
 
 ```
-emperor@security-lab:~$ whoami
-Gabriel "EmperorZarbato" - QA Security Specialist
+nyarlathotep@security-lab:~$ whoami
+Gabriel "NyarlathotepCWR" - QA Security Specialist
 
-emperor@security-lab:~$ cat /etc/motto
+nyarlathotep@security-lab:~$ cat /etc/motto
 "Breaking systems to build better ones"
 
-emperor@security-lab:~$ ps aux | grep passion
+nyarlathotep@security-lab:~$ ps aux | grep passion
 automation    1337  0.0  cybersecurity  /usr/bin/learning
 quality       1338  0.0  testing        /usr/bin/excellence  
 security      1339  0.0  hacking        /usr/bin/ethical
 
-emperor@security-lab:~$ uptime
+nyarlathotep@security-lab:~$ uptime
 System up since: Career Start
 Load average: High Learning, Maximum Curiosity, Infinite Growth
 
-emperor@security-lab:~$ exit
+nyarlathotep@security-lab:~$ exit
 Connection to future terminated.
 ```
 
