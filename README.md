@@ -187,14 +187,6 @@ Current_Operations:
 
 ---
 
-## 🌐 MATRIX CONNECTION
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔗+ESTABLISHING+CONNECTIONS+🔗)
-
-```
-===============================================================================
 ```
 
 ## 🎯 SISTEMA DE REPUTAÇÃO
