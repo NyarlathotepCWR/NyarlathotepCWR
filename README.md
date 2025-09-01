@@ -132,9 +132,9 @@ Clean Architecture
 </tr>
 </table>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmperorZarbato&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyarlathotepCWR&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmperorZarbato&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyarlathotepCWR&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
 
 </div>
 
