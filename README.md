@@ -15,20 +15,6 @@
     ⭐ In the cosmic depths where Outer Gods dwell, Quality Testing becomes eternal ritual ⭐
 ```
 
-```
- ╔═══════════════════════════════════════════════════════════════════════════════════════╗
- ║                              🔒 SISTEMA DE SEGURANÇA ATIVO 🔒                        ║
- ║                                                                                       ║
- ║  [████████████████████████████████████████████████████████████████████████] 100%    ║
- ║                                                                                       ║
- ║  > Iniciando protocolo de autenticação...                               ✓            ║
- ║  > Verificando integridade do sistema...                                ✓            ║
- ║  > Escaneando vulnerabilidades...                                       ✓            ║
- ║  > Carregando ferramentas de penetração...                              ✓            ║
- ║                                                                                       ║
- ║                           🚀 ACESSO AUTORIZADO 🚀                                    ║
- ╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9370DB&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Cosmic+Void...;QA+Automation+%7C+Eldritch+Enthusiast;Penetration+Testing+%7C+Reality+Distortion;Breaking+Dimensions+to+Build+Better+Ones)
 
