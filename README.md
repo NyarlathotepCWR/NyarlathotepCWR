@@ -87,51 +87,6 @@ Current_Operations:
 ===============================================================================
 ```
 
-<table>
-<tr>
-<td>
-
-```
-🎯 ACCURACY RATING
-
-▓▓▓▓▓▓▓▓▓▓ 100%
-Bug Detection
-
-🚀 SPEED INDEX
-
-▓▓▓▓▓▓▓▓▓░ 90%
-Test Execution
-
-🔒 SECURITY LEVEL
-
-▓▓▓▓▓▓▓▓▓▓ 100%
-Vulnerability Scan
-```
-
-</td>
-<td>
-
-```
-⚡ AUTOMATION RATE
-
-▓▓▓▓▓▓▓▓▓░ 95%
-Test Coverage
-
-🛡️ DEFENSE MATRIX
-
-▓▓▓▓▓▓▓▓░░ 85%
-Penetration Resist
-
-💻 CODE QUALITY
-
-▓▓▓▓▓▓▓▓▓░ 92%
-Clean Architecture
-```
-
-</td>
-</tr>
-</table>
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyarlathotepCWR&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyarlathotepCWR&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
