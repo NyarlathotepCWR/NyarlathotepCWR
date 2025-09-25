@@ -72,10 +72,6 @@ Current_Operations:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=000000&center=true&vCenter=true&width=600&height=50&lines=STATISTICAL+ANALYSIS)
 
-```
-
-```
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyarlathotepCWR&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyarlathotepCWR&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)](https://github.com/NyarlathotepCWR)
@@ -84,15 +80,6 @@ Current_Operations:
 
 ---
 
-## 🌐 MATRIX CONNECTION
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔗+ESTABLISHING+CONNECTIONS+🔗)
-
-```
-===============================================================================
-```
 
 ## 🎯 SISTEMA DE REPUTAÇÃO
 
