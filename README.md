@@ -94,14 +94,4 @@ Current_Operations:
 - 🎮 **Gaming Automation** - Anti-AFK Systems
 - 🕸️ **Web Security** - Penetration Testing
 
-```
-┌─[achievements@unlocked]─[~/credentials]
-└──╼ cat certifications.log
-
-[2025-08-29] 🔒 SECURITY_MINDSET: ACTIVATED
-[2025-08-29] 💡 AUTOMATION_EXPERT: CONFIRMED  
-[2025-08-29] 🎯 PRECISION_TESTING: MASTERED
-[2025-08-29] 🚀 CONTINUOUS_LEARNING: ENABLED
-```
-
 </div>
