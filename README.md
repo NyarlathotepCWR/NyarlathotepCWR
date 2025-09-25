@@ -13,11 +13,6 @@
 
 ## 👁️ PERFIL D'O ANTIGO
 
-```bash
-┌─[Nyarlathotep@CWR]─[~/profile]
-└──╼ cat agent_profile.txt
-```
-
 ```yaml
 Agent_ID: NyarlathotepCWR
 Classification: [CONFIDENTIAL]
