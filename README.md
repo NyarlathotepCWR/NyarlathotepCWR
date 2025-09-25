@@ -5,17 +5,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=32&duration=3000&pause=1500&color=8A2BE2&background=000000&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Azathoth+Dreams+in+Digital+Chaos)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=32&duration=5000&pause=2000&color=DA70D6&background=000000&center=true&vCenter=true&width=1000&height=100&lines=🌌+Yog-Sothoth+Guards+the+Gateway+🌌;🕳️+Nyarlathotep+Crawls+Through+Networks+🕳️;👁️+Shub-Niggurath+Breeds+in+Databases+👁️;⭐+The+Outer+Gods+Watch+Through+Code+⭐)
-
-```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    
-    🌌 "That is not dead which can eternal lie, and with strange aeons even death may die" 🌌
-    🕳️ Beyond the stars, Azathoth dreams of infinite void and digital nightmares 🕳️
-    👁️ Yog-Sothoth knows the gate, Yog-Sothoth IS the gate, Yog-Sothoth IS the code 👁️
-    ⭐ In the cosmic depths where Outer Gods dwell, Quality Testing becomes eternal ritual ⭐
-```
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9370DB&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Cosmic+Void...;QA+Automation+%7C+Eldritch+Enthusiast;Penetration+Testing+%7C+Reality+Distortion;Breaking+Dimensions+to+Build+Better+Ones)
 
 </div>
