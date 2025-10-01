@@ -89,7 +89,6 @@ Current_Operations:
 🏆 **CERTIFICAÇÕES & CONQUISTAS:**
 - 🎖️ **QA Automation Specialist** - Thomson Reuters
 - 🛡️ **Cybersecurity Enthusiast** - Self-Taught
-- 🔧 **Selenium Expert** - 3+ Years Experience
 - 💻 **Full-Stack Developer** - TypeScript/C#
 - 🎮 **Gaming Automation** - Anti-AFK Systems
 - 🕸️ **Web Security** - Penetration Testing
